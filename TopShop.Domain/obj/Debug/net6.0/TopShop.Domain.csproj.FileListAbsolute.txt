@@ -10,3 +10,15 @@ C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Domain\obj\Debug\net6.0\TopShop.
 C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Domain\obj\Debug\net6.0\refint\TopShop.Domain.dll
 C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.pdb
 C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Domain\obj\Debug\net6.0\ref\TopShop.Domain.dll
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\bin\Debug\net6.0\TopShop.Domain.deps.json
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\bin\Debug\net6.0\TopShop.Domain.dll
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\bin\Debug\net6.0\TopShop.Domain.pdb
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.csproj.AssemblyReference.cache
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.AssemblyInfoInputs.cache
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.AssemblyInfo.cs
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.dll
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\refint\TopShop.Domain.dll
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\TopShop.Domain.pdb
+C:\Users\djore\OneDrive\Desktop\TopShopGit\TopShop.Domain\obj\Debug\net6.0\ref\TopShop.Domain.dll
