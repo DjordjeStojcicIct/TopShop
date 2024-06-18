@@ -1,0 +1,15 @@
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\bin\Debug\net6.0\TopShop.Application.deps.json
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\bin\Debug\net6.0\TopShop.Application.dll
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\bin\Debug\net6.0\TopShop.Application.pdb
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\bin\Debug\net6.0\TopShop.Domain.dll
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\bin\Debug\net6.0\TopShop.Domain.pdb
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.csproj.AssemblyReference.cache
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.AssemblyInfoInputs.cache
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.AssemblyInfo.cs
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.csproj.CopyComplete
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.dll
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\refint\TopShop.Application.dll
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\TopShop.Application.pdb
+C:\Users\djore\OneDrive\Desktop\ASP\Lab\TopShop.Application\obj\Debug\net6.0\ref\TopShop.Application.dll
