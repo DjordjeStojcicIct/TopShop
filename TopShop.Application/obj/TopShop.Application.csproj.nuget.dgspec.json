@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\TopShop.Application.csproj": {}
+    "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\TopShop.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\TopShop.Application.csproj": {
+    "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\TopShop.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\TopShop.Application.csproj",
+        "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\TopShop.Application.csproj",
         "projectName": "TopShop.Application",
-        "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\TopShop.Application.csproj",
+        "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\TopShop.Application.csproj",
         "packagesPath": "C:\\Users\\djore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\obj\\",
+        "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj": {
-                "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj"
+              "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj": {
+    "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj",
         "projectName": "TopShop.Domain",
-        "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj",
+        "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj",
         "packagesPath": "C:\\Users\\djore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

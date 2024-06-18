@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj",
       "projectName": "TopShop.Domain",
-      "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj",
+      "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj",
       "packagesPath": "C:\\Users\\djore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\obj\\",
+      "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

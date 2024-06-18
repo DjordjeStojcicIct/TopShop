@@ -2998,11 +2998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.DataAccess\\TopShop.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.DataAccess\\TopShop.DataAccess.csproj",
       "projectName": "TopShop.DataAccess",
-      "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.DataAccess\\TopShop.DataAccess.csproj",
+      "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.DataAccess\\TopShop.DataAccess.csproj",
       "packagesPath": "C:\\Users\\djore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3024,8 +3024,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Domain\\TopShop.Domain.csproj"
+            "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Domain\\TopShop.Domain.csproj"
             }
           }
         }

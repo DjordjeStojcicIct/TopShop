@@ -9960,11 +9960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.API\\TopShop.API.csproj",
+      "projectUniqueName": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.API\\TopShop.API.csproj",
       "projectName": "TopShop.API",
-      "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.API\\TopShop.API.csproj",
+      "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.API\\TopShop.API.csproj",
       "packagesPath": "C:\\Users\\djore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.API\\obj\\",
+      "outputPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9986,14 +9986,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\TopShop.Application.csproj": {
-              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Application\\TopShop.Application.csproj"
+            "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\TopShop.Application.csproj": {
+              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Application\\TopShop.Application.csproj"
             },
-            "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.DataAccess\\TopShop.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.DataAccess\\TopShop.DataAccess.csproj"
+            "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.DataAccess\\TopShop.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.DataAccess\\TopShop.DataAccess.csproj"
             },
-            "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Implementation\\TopShop.Implementation.csproj": {
-              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.Implementation\\TopShop.Implementation.csproj"
+            "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Implementation\\TopShop.Implementation.csproj": {
+              "projectPath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.Implementation\\TopShop.Implementation.csproj"
             }
           }
         }

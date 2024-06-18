@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6YFX85ho9+LXzo+hDMQdq2hq/hhI3Mq+wN2Y9r36jYx1TX6N9mcb1opiaRP1Hh2Po2b7ruM6ynKaVSDeIyNM6g==",
+  "dgSpecHash": "VzxXuNPAo0//R4NlGcFD7Gwa22HPI82WBN5d8D7EbfGchYxzgGaP9O3XimJJXKeI2UcjlNdSHFEASEtcZwjsHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.API\\TopShop.API.csproj",
+  "projectFilePath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.API\\TopShop.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djore\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\djore\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

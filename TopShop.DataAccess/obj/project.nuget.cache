@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60pHCFzl0Li8qOuZec/Y1ZrxhZXvgdJrw991n0mqELkXecf+SR0EusdhLtMRjLK01PTmLBMa1NO4+JFaulZa0g==",
+  "dgSpecHash": "54VOSfiYdcy2FLR39UBEbaEStgUQlDBh5SrsfCE6H89KOWJZIZzJ68nu8BDRIk1Kq0MJcsGkRsryIJTBYVEFGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\djore\\OneDrive\\Desktop\\ASP\\Lab\\TopShop.DataAccess\\TopShop.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\djore\\OneDrive\\Desktop\\TopShopGit\\TopShop.DataAccess\\TopShop.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djore\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\djore\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
